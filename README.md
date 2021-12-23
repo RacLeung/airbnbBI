@@ -6,7 +6,7 @@ With the growing demand of staycation in Hong Kong, we have obtained the airbnb 
 <img width="1405" alt="Screenshot 2021-12-23 at 7 07 57 PM" src="https://user-images.githubusercontent.com/88300606/147233282-61b91b80-a368-48dc-bbd8-fb846215555b.png">
 - With a total listing of 6045 properties, Yau Tsim Mong has the most listing, where Kwai Tsing has the highest median price and Wong Tai Sin has the highest occupency rate. The most popular room type being Entire home/apartment.
 
-  <br />
+__<br />
 2. Details of Districts:
 <img width="1400" alt="Screenshot 2021-12-23 at 7 08 25 PM" src="https://user-images.githubusercontent.com/88300606/147233294-082d3ddd-ba82-40b1-88aa-5cca1569685b.png">
 - Average daily renting price being $805 with an avergare occupancy rate of 29%, and the majority of listing property being private room.
