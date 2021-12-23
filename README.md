@@ -1,6 +1,6 @@
 # airbnb BI project with Tableau
 
-With the growing demand of staycation in Hong Kong, we have obtained the airbnb property and host data from http://insideairbnb.com/get-the-data.html to create a dashboard with insights of the current performance of the existing properties in the market.
+With the growing demand of staycation in Hong Kong, we have obtained the airbnb property and host data from http://insideairbnb.com/get-the-data.html to create a dashboard with insights of the current performance of the existing properties in the local market.
 
 1. Overall Review of Properties:
 <img width="1405" alt="Screenshot 2021-12-23 at 7 07 57 PM" src="https://user-images.githubusercontent.com/88300606/147233282-61b91b80-a368-48dc-bbd8-fb846215555b.png">
